@@ -6,12 +6,12 @@ This is a project that I am building to develop and display my portfolio online 
 
 
 ## Features
--Includes a picture and an introduction in the start
--There are navigation links on the top
--There is a demonstration of skills learned
--A portfolio section with links to the individual portfolio pages are shown
--Added a way for people to get in touch with me
--There are links to my LinkedIn and GitHub pages
+- Includes a picture and an introduction in the start
+- There are navigation links on the top
+- There is a demonstration of skills learned
+- A portfolio section with links to the individual portfolio pages are shown
+- Added a way for people to get in touch with me
+- There are links to my LinkedIn and GitHub pages
 
 
 ## Getting Started
